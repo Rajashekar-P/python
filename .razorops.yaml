@@ -5,3 +5,4 @@ tasks:
     - checkout
     - commands:
       - python addnumber.py
+      - python factorial.py
