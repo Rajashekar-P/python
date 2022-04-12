@@ -1,0 +1,8 @@
+
+tasks:
+  unit-test:
+    runner: razorci/python
+    steps:
+    - checkout
+    - commands:
+      - python addnumber.py
