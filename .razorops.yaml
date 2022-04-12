@@ -4,4 +4,4 @@ tasks:
     steps:
     - checkout
     - commands:
-      - python addnumber.py factorial.py
+      - python addnumber.py
